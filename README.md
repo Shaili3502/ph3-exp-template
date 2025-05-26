@@ -3,8 +3,8 @@
 
 <b>Discipline | <b>Electronics
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Power System Lab
+<b> Experiment|     <b> voltage distribution across string insulators
 
 ### About the Experiment 
 
